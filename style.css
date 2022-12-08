@@ -3,7 +3,12 @@ body {
 }
 
 h1 {
-	color: white
+	color: white;
+	text-align: center;
+}
+
+.myheading {
+	text-align: center;
 }
 
 .square {
